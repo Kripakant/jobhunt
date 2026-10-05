@@ -1,9 +1,6 @@
 # Job Tracker App
 A React.js-based job application tracker to help users organize and manage their job search efficiently. Users can add, edit, filter, and sort job applications, view statistics, upload screenshots, and more — all with a responsive and modern UI.
 
-## Try It Here
-
-Check out the live application: https://myjobtracker.netlify.app/
 ## Highlights
 * Built with **React** + **Tailwind CSS**
 * Mobile-friendly design with smooth animations
